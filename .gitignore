@@ -1,0 +1,20 @@
+# Environment & Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+backend/projectenv/
+
+# Node.js / Frontend
+frontend/my-app/node_modules/
+frontend/my-app/dist/
+frontend/my-app/build/
+
+# Logs
+*.log
+
+# OS & Temp
+.DS_Store
+Thumbs.db
